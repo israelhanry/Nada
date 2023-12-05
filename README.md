@@ -1,22 +1,20 @@
-### *Olá, me chamo Israel!*
+### Olá pessoal! Sejam Bem Vindos ao Meu Perfil do Github! 👋
 
--  ✩  Estudante de Desenvolvimento de sistemas 1/3
--  ✩  Sala 04
-#
-<img align="center" alt="Andrea-C" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-
-##
-<a href="https://www.tiktok.com/@andy._891/#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://open.spotify.com/user/bc79ertus2d0ykcqtd6t4nrol?si=e9f7fa8f9e3f4a8f/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-
-![israelhanry GitHub stats](https://github-readme-stats.vercel.app/api?username=israelhanry&show_icons=true&theme=radical)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ben_jr_bs_official/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white)](ben.jr.santos.bs.official@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=87999221873&logoColor=white)](87999221873)<br>
+Abaixo estão as linguagens que mais uso:<br> <br>
+![israelhanry GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelhanry&show_icons=true&theme=dark) <br>
+  <a href="https://github.com/benjuniorofc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhanry&layout=compact&theme=dark&hide_border=true" /></a>
 
 
-          
-          
 
+Agora abaixo algumas informações sobre mim: <br>
+- 🏫|Atualmente estudando na ETE Cyl Gallindo;
+- 📚|Curso técnico Desenvolvimento de Sistemas - 1/3;
+- 🌎|Mora em Buíque/PE;
 
-          
-          
+Linguagens que uso no meu dia a dia: <br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
+</div>
